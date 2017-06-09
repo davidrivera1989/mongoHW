@@ -1,5 +1,5 @@
 {
-  "name": "scraper",
+  "name": "mongoHW",
   "version": "1.0.0",
   "description": "A MongoDB web scraping test",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpazevic/scraper.git"
+    "url": "git+https://github.com/davidrivera1989/mongoHW.git"
   },
-  "author": "Maxwell Pazevic",
+  "author": "David Rivera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mpazevic/scraper/issues"
+    "url": "https://github.com/davidrivera1989/mongoHW/issues"
   },
-  "homepage": "https://github.com/mpazevic/scraper#readme",
+  "homepage": "https://github.com/davidrivera1989/mongoHW#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "cheerio": "^1.0.0-rc.1",
